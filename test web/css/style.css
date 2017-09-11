@@ -19,7 +19,7 @@ body {
   list-style: none;
   position: relative;
   float: right;
-  width: 85.5%;
+  width: 85%;
 }
 .nav__list--item{
   display: inline-block;
