@@ -1,12 +1,47 @@
+body {
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: #ffffff;
+    line-height: 22px;
+    background: #003300;
+}
 .container {
-  background: #25d;
-  font-size: 25px;
-  font-family: cursive;
+  background: #004d00;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .header {
-  background: #24357183;
-  
+  margin: 0 auto;
+  padding-top: 0;
 }
 .nav__list{
   list-style: none;
+  position: relative;
+  float: right;
+  width: 85.5%;
+}
+.nav__list--item{
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 20px;
+  border: 2px solid #004d00;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.main{
+  margin: 0 auto;
+  padding-right: 2.3%;
+  padding-left: 2.3%;
+}
+.img {
+  display: block;
+  text-align: center;
+}
+.img_1 {
+  margin-right: 50px;
+}
+.footer {
+  margin:  0 auto;
+  background: #004d00;
 }
