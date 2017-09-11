@@ -1,0 +1,12 @@
+.container {
+  background: #25d;
+  font-size: 25px;
+  font-family: cursive;
+}
+.header {
+  background: #24357183;
+  
+}
+.nav__list{
+  list-style: none;
+}
