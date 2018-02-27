@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <surname>Sinkevich</surname>
+    <name>Hanna</name>
+    <profession>ISaT</profession>
+    <course>2</course>
+    <average>76</average>
+    <age>19</age>
+    <sex>Female</sex>
+    <work>
+      <company>Slivki.by</company>
+      <position>SEO</position>
+      <experience>1</experience>
+      <type_of_work>
+        <string>Partial </string>
+      </type_of_work>
+    </work>
+    <adr>
+      <street>Belarussian</street>
+      <city>Minsk</city>
+      <house>21</house>
+      <flat>312</flat>
+      <index>220006</index>
+    </adr>
+  </Student>
+</ArrayOfStudent>

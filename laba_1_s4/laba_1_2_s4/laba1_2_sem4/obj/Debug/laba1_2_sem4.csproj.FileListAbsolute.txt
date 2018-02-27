@@ -1,0 +1,10 @@
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\bin\Debug\laba1_2_sem4.exe.config
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\bin\Debug\laba1_2_sem4.exe
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\bin\Debug\laba1_2_sem4.pdb
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.csprojResolveAssemblyReference.cache
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.Form1.resources
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.Properties.Resources.resources
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.csproj.GenerateResource.Cache
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.csproj.CoreCompileInputs.cache
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.exe
+E:\programming\C#\OOP_labs_sem4\laba1_2_sem4\laba1_2_sem4\obj\Debug\laba1_2_sem4.pdb
