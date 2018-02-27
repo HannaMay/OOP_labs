@@ -1,4 +1,0 @@
-E:\прога\C#\Laba_3\Laba_3\bin\Debug\Laba_3.exe
-E:\прога\C#\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
-E:\прога\C#\Laba_3\Laba_3\obj\x86\Debug\Laba_3.exe
-E:\прога\C#\Laba_3\Laba_3\obj\x86\Debug\Laba_3.pdb
