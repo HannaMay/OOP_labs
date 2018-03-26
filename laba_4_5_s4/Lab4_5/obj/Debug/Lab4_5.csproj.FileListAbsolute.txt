@@ -1,0 +1,69 @@
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Lab4_5.exe.config
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Lab4_5.exe
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Lab4_5.pdb
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\resources\langEN.baml
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\resources\langRU.baml
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\MainWindow.g.cs
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\App.g.cs
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.cache
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.lref
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\MainWindow.baml
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.g.resources
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.Properties.Resources.resources
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csproj.GenerateResource.Cache
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.exe
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.pdb
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.dll
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Документы\Университет\4 семестр\ООТП\Лабораторные\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.xml
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Lab4_5.exe.config
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Lab4_5.exe
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Lab4_5.pdb
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.dll
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.dll
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.xml
+G:\FOX\Lab4_5\Lab4_5\bin\Debug\Microsoft.DirectX.xml
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csprojResolveAssemblyReference.cache
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\resources\langEN.baml
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\resources\langRU.baml
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\MainWindow.g.cs
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\App.g.cs
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.cache
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.lref
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\MainWindow.baml
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.g.resources
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.Properties.Resources.resources
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csproj.GenerateResource.cache
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csproj.CoreCompileInputs.cache
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.csproj.CopyComplete
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.exe
+G:\FOX\Lab4_5\Lab4_5\obj\Debug\Lab4_5.pdb
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Lab4_5.exe.config
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Lab4_5.exe
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Lab4_5.pdb
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Microsoft.DirectX.dll
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\bin\Debug\Microsoft.DirectX.xml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.csprojResolveAssemblyReference.cache
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\resources\langEN.baml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\resources\langRU.baml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\MainWindow.g.cs
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\App.g.cs
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.cache
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5_MarkupCompile.lref
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\MainWindow.baml
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.g.resources
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.Properties.Resources.resources
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.csproj.GenerateResource.cache
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.csproj.CoreCompileInputs.cache
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.csproj.CopyComplete
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.exe
+D:\Hannika\university\2_course\c#_git\labs\laba_4_5_s4\Lab4_5\obj\Debug\Lab4_5.pdb

@@ -1,0 +1,54 @@
+﻿<Window x:Class="Lab4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4_5"
+        mc:Ignorable="d"
+        Title="Text Editor" Cursor="Pen"
+        Height="720" Width="1024" AllowDrop="True" Background="#FFF0F0F0">
+    <Window.Resources>
+        <ResourceDictionary Source="/resources/langEN.xaml"/>
+    </Window.Resources>
+    <Grid AllowDrop="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Foreground ="#FFFFFF"  Background="#750071" Width="Auto">
+            <MenuItem  Header="{DynamicResource _File}" x:Name="File">
+                <MenuItem Header="{DynamicResource _New}" Click="NewWind"/>
+                <MenuItem Header="{DynamicResource _Save}" Click="Save_Click"/>
+                <MenuItem Header="{DynamicResource _Open}" Click="Open_Click"/>
+            </MenuItem>
+            <MenuItem Header="{DynamicResource _Edit}" x:Name="Edit" Height="40">
+                <MenuItem Header="{DynamicResource _Copy}" CommandTarget="{Binding ElementName=this.MainText}" Command="Copy"/>
+                <MenuItem Header="{DynamicResource _Paste}" CommandTarget="{Binding ElementName=this.MainText}" Command="Paste"/>
+                <MenuItem Header="{DynamicResource _Cut}" CommandTarget="{Binding ElementName=this.MainText}" Command="Cut"/>
+                <MenuItem Header="{DynamicResource _Undo}" CommandTarget="{Binding ElementName=this.MainText}" Command="Undo"/>
+            </MenuItem>
+            <MenuItem Header="{DynamicResource _Lang}">
+                <MenuItem Header="{DynamicResource _Ru}" Click="SetRussian" />
+                <MenuItem Header="{DynamicResource _Eng}" Click="SetEnglish"/>
+            </MenuItem>
+            <ComboBox Name="FontTypes" Height="20" SelectionChanged="OnChangeFontFamily" FontSize="10" Width="150"/>
+            <Slider x:Name="Font_Size" Value="12" Minimum="0" ToolTip="Font Size" IsSnapToTickEnabled="True" TickFrequency="2" TickPlacement="Both" Maximum="100" Height="30" Width="188" ValueChanged="Font_Size_ValueChanged" Margin="5,2,0,3"/>
+            <TextBox x:Name="FontSizeTextBox" ToolTip="Font size" Width="40" TextChanged="FontSizeTextBox_TextChanged" Height="25" FontSize="12"/>
+        </Menu>
+
+        <ToolBar Grid.Row="0" AllowDrop="True"  VerticalAlignment="Top" Background="#750071" HorizontalAlignment="Right" Width="165">
+            <Button x:Name="_Save" ToolTip="Save" Click="Save_Click">
+                <Image Source="/resources/save.png" Height="20" Width="20" ToolTip="Save"/>
+            </Button>
+            <Button x:Name="_Open" ToolTip="Open" Click="Open_Click">
+                <Image Source="/resources/open.png" Height="20" Width="20" ToolTip="Open"/>
+            </Button>
+            <ToggleButton Foreground ="#FFFFFF" FontSize="20" Content="B" Unchecked="Bold_Unchecked" Command="EditingCommands.ToggleBold" x:Name="Bold" Margin="10 0 0 0" />
+            <ToggleButton Foreground ="#FFFFFF" FontSize="20" Content="I" Unchecked="Italic_Unchecked" Command="EditingCommands.ToggleItalic" x:Name="Italic" Margin="5,1" />
+            <ToggleButton Foreground ="#FFFFFF" FontSize="20" Content="U" Unchecked="UnderLine_Unchecked" Command="EditingCommands.ToggleUnderline" x:Name="UnderLine" Margin="5,1" />
+        </ToolBar>
+        <RichTextBox Grid.Row="1" TextChanged="OnTextChanged" SelectionChanged="FontUpdating" x:Name="MainText" AllowDrop="True" BorderThickness="0" Grid.RowSpan="2"/>
+        <Label Grid.Row="2" x:Name="Log" VerticalAlignment="Bottom" Height="40" BorderThickness="0,1,0,0"   Background="#FFC7FD" Foreground="Brown" BorderBrush="#FF416C1D"/>
+    </Grid>
+</Window>
